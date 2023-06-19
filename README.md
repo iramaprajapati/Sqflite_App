@@ -1,6 +1,6 @@
 # sqflite_crud
 
-Flutter simple Sqflite application for CRUD operations practice!
+Flutter simple Sqflite application for CRUD operations practice.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[Screenshot_2023-06-18-13-59-04-466_com example sqflite_crud](https://github.com/iramap/Sqflite_App/assets/122166121/620b06e2-24ec-45cc-9e0e-4f379e780651)
+![Screenshot_2023-06-18-13-59-04-466_com example sqflite_crud](https://github.com/iramap/Sqflite_App/assets/122166121/620b06e2-24ec-45cc-9e0e-4f379e780651)
 ![Screenshot_2023-06-18-13-59-10-071_com example sqflite_crud](https://github.com/iramap/Sqflite_App/assets/122166121/46f1c904-c7c0-477c-a0be-3cda19a652a0)
 ![Screenshot_2023-06-18-14-16-28-145_com example sqflite_crud](https://github.com/iramap/Sqflite_App/assets/122166121/141b551d-a27b-4b93-b63f-53a0f2409fec)
 ![Screenshot_2023-06-18-15-38-18-201_com example sqflite_crud](https://github.com/iramap/Sqflite_App/assets/122166121/983931d1-8c60-4ec5-8874-25aba6ac6a84)
